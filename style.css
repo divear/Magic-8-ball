@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(228, 210, 243);
+    margin: 0px;
+    height: 100%;
+    overflow: hidden;
+}
+.quote{
+    margin-top: 10%;
+    font-size: 5vw;
+    text-align: center;
+}
+.autor{
+    
+    text-align: center;
+    font-size: 2vw;
+}
+.fs{
+    position:absolute;
+    top: 70%;
+    width: 20vw;
+    height: 10vw;
+    right: 5%;
+    font-size: 8vw;
+    background-color: Transparent;
+    outline:ridge;
+
+}
